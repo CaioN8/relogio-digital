@@ -6,7 +6,8 @@ Este projeto consiste em um relógio digital que exibe **horas**, **minutos** e 
 
 ## 📷 **Pré-visualização**
 
-<img width="1828" height="816" alt="image" src="https://github.com/user-attachments/assets/a0d90113-1dea-4f25-b202-0766abb437af" />
+<img width="1824" height="816" alt="Pré-visualização do relógio digital" src="https://github.com/user-attachments/assets/3293b23d-2e6b-4ef6-9c1b-50c7fe1b367f" />
+
 
 
 ---
